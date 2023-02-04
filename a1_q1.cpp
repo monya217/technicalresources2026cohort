@@ -6,4 +6,4 @@ int main(int argc, char** agrc) {
   cout<<"  *  "<<endl;
   cout<<" *   "<<endl;
   cout<<"*****"<<endl;
-  }
+   }
