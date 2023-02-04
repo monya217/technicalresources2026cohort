@@ -7,7 +7,7 @@ int main(int argc, char **argv){
     for (int row=1;row<=n;row++){
         for(int col=1;col<=n-row+1;col++){
             
-            cout<<"*    ";
+            cout<<"*\t";
         }
         cout<<endl;
     }
